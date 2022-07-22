@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Bruno e eu estou aqui.
 - <div align="center">
   <a href="https://github.com/bromoliver">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bromoliver&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bromoliver"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bromoliver&layout=compact"/>
 </div>
 <div style="display: inline_block"><br>
