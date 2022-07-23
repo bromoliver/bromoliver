@@ -2,7 +2,7 @@
  <div align="center">
   <a href="https://github.com/bromoliver">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bromoliver"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bromoliver&layout=compact"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bromolive&layout=compact"/>  
 </div>
 
 <div style="display: inline_block"><br>
