@@ -18,7 +18,7 @@
   
   
 </div>
-  <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/Z6Gqy-qS-EQAAAAM/kakashi-naruto.gif">
+  
   ##
  
 <div> 
