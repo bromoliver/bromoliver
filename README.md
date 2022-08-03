@@ -23,7 +23,7 @@
  
  
 <div>  
- <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;" src="https://tenor.com/view/anime-happy-gif-23339052">
+ <img align="right" alt="Kakashi Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/k_eOVQcIiNkAAAAC/anime-happy.gif">
   <a href="https://instagram.com/brom_oliver" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bromoliver@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-oliveira-684b06150" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
